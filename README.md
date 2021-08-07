@@ -1,4 +1,4 @@
-# Code-Public-Computer-Geoscience
+# Code-Public-Applied-Soft-Computing
 
 Title of the manuscript: Rock Recognition and Identification for Selective Mechanical Mining: A Self-adaptive Artificial Neural Network Approach 
 
